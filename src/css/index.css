@@ -1,0 +1,18 @@
+.abc{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    line-height: 100px
+}
+.csf{
+  
+    border: 1px solid black;
+    display: inline;
+    padding: 10px;
+ 
+}
+.ccc{
+height: 4px;
+width: 5px;
+border: 1px solid black;
+}
